@@ -11,7 +11,7 @@ project:
   # The default contact email address
   email: "support@electricbook.works"
   # The name of the project of books in this folder.
-  name: "The Electric Book template"
+  name: "Growing Potatoes"
   # A one-liner about this project. Useful for Open Graph metadata.
   description: "This is Electric Book template, a way to build websites, books and ebooks from the same master content. Created and maintained by Electric Book Works."
   # The logo of the organisation, saved web-ready in /assets
@@ -39,9 +39,9 @@ project:
 
 works:
   - directory: "book"
-    title: "Template"
+    title: "Potatoes in Space"
     subtitle: ""
-    creator: "A. N. Author" # E.g. the author
+    creator: "Arthur Attwell" # E.g. the author
     contributor: "" # E.g. other contributors
     subject: "Fiction" # E.g. BISAC terms (https://bisg.org/page/BISACEdition) or BIC (http://editeur.dyndns.org/bic_categories)
     description: "The Electric Book's blank template." # E.g. the blurb
